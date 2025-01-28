@@ -7,5 +7,6 @@ int main(){
   scanf("%d", &b);
   c = a + b;
   printf("Sumof two numbers is %d.", c);
+  printf("Hello World!! Welcome to VBIT!");
   return 0;
 }
